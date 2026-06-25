@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+
+# Downloaded documents and data
+docs/
+URL_LOGS/
+Vector_DB_Folder/
+
+# Personal files
+To_Do.txt
+src/test.py

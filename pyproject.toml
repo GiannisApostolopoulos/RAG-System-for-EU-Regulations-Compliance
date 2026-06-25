@@ -1,0 +1,16 @@
+[project]
+name = "rag-eu-regulations"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.9",
+    "groq>=1.5.0",
+    "langchain-community>=0.4.2",
+    "langchain-openai>=1.3.3",
+    "langchain-text-splitters>=1.1.2",
+    "pydantic>=2.13.4",
+    "pymupdf>=1.27.2.3",
+    "requests>=2.34.2",
+    "sentence-transformers>=5.6.0",
+]
